@@ -1,0 +1,18 @@
+{
+    "username":"sj321022",
+ //    "email":"sj321022@gmail.com",
+    "password":"123"
+  //  "name":"Sourabh jangid"
+}
+{
+    "username":"kapil321022",
+    "email":"sj321022@gmail.com",
+    "password":"123",
+   "name":"Kapil"
+}
+{
+    "username":"mukesh321022",
+    "email":"sj321022@gmail.com",
+    "password":"123",
+   "name":"Mukesh"
+}
